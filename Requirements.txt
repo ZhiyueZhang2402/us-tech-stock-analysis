@@ -1,0 +1,4 @@
+wrds	
+panda
+matplotlib	
+numpy
